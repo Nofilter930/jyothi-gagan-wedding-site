@@ -26,3 +26,6 @@
 "/gallery/photo26.jpg",
 "/gallery/photo27.jpg",
 .gitkeep
+git add public/gallery/.gitkeep
+git commit -m "Create gallery folder with placeholder"
+git push
